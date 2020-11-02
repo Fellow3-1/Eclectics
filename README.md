@@ -10,6 +10,8 @@ These include:
   * CSS3 :relieved:
   * Java Script
   * JQuery
+  * CI/CD
+  * PHP
 
 
 **TEST
