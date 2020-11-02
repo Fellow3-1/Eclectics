@@ -1,0 +1,22 @@
+{
+  "name": "eclectics",
+  "version": "1.0.0",
+  "description": "eCommerce website",
+  "main": "index.html",
+  "scripts": {
+    "test": "test 123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fellow3-1/Eclectics.git"
+  },
+  "keywords": [
+    "Eclectics"
+  ],
+  "author": "Felloh3.1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fellow3-1/Eclectics/issues"
+  },
+  "homepage": "https://github.com/Fellow3-1/Eclectics#readme"
+}
